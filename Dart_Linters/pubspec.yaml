@@ -1,0 +1,5 @@
+name: dp_common_dart_linters
+desc: Linter for Static Analysis on Dart-lang, DevelopersPackages.org Presents, Recommends,and Uses.
+version: 1.0.0
+environment:
+  sdk: ">=2.12.0 <3.0.0"
